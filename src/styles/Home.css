@@ -1,0 +1,77 @@
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  height: auto;
+  padding: 4rem 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  text-align: center;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+.gradient-text-0 {
+  background: -webkit-linear-gradient(#bfa3da, #84309c, #c735b0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-1 {
+  background: -webkit-linear-gradient(#a79af9, #7aa8d2);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-2 {
+  background: -webkit-linear-gradient(#bfa3da, #743f93);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-3 {
+  background: -webkit-linear-gradient(#c35ab1, #e9a8d9);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
+  text-decoration-color: #84309c;
+}
+
+.title {
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.connect {
+  margin-bottom: 2rem;
+}
+
+.description {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.code {
+  background: #555;
+  border-radius: 5px;
+  padding: 0.5em;
+  font-size: 1.1rem;
+}
+.title2 {
+  line-height: 1;
+  font-size: 2rem;
+  font-style: normal;
+}
